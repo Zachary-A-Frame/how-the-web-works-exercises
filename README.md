@@ -30,4 +30,3 @@ Why are pirates called pirates? Because they arrr!
     dig icanhazdadjoke.com
 3. Make a simple web page and serve it using python3 -m http.server. Visit the page in a browser.
 
-## Part 3
